@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CUP001",
+    "codigo": "ANGEL15",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "porcentaje",
+    "valor": 30000,
+    "valido_desde": "2026-12-29",
+    "valido_hasta": "2027-04-02",
+    "restricciones": {
+      "min_compra": 80000,
+      "categorias_incluidas": [
+        "CAT008",
+        "CAT002",
+        "CAT001"
+      ],
+      "productos_excluidos": [
+        "PROD008",
+        "PROD015"
+      ]
+    },
+    "activo": false
+  },
+  {
+    "id": "CUP002",
+    "codigo": "PRO42",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "fijo",
+    "valor": 5,
+    "valido_desde": "2025-11-28",
+    "valido_hasta": "2026-04-01",
+    "restricciones": {
+      "min_compra": 0,
+      "categorias_incluidas": [
+        "CAT008",
+        "CAT002",
+        "CAT001",
+        "CAT009",
+        "CAT007"
+      ],
+      "productos_excluidos": [
+        "PROD002",
+        "PROD004"
+      ]
+    },
+    "activo": true
+  },
+  {
+    "id": "CUP003",
+    "codigo": "BEAUTY89",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "porcentaje",
+    "valor": 30000,
+    "valido_desde": "2026-05-02",
+    "valido_hasta": "2027-04-07",
+    "restricciones": {
+      "min_compra": 120000,
+      "categorias_incluidas": [
+        "CAT008",
+        "CAT005",
+        "CAT007",
+        "CAT003",
+        "CAT009"
+      ],
+      "productos_excluidos": []
+    },
+    "activo": true
+  },
+  {
+    "id": "CUP004",
+    "codigo": "GLOW43",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "porcentaje",
+    "valor": 10,
+    "valido_desde": "2025-03-01",
+    "valido_hasta": "2026-02-14",
+    "restricciones": {
+      "min_compra": 50000,
+      "categorias_incluidas": [
+        "CAT009",
+        "CAT002",
+        "CAT003"
+      ],
+      "productos_excluidos": []
+    },
+    "activo": false
+  },
+  {
+    "id": "CUP005",
+    "codigo": "COMILY47",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "porcentaje",
+    "valor": 10,
+    "valido_desde": "2026-07-11",
+    "valido_hasta": "2027-06-10",
+    "restricciones": {
+      "min_compra": 80000,
+      "categorias_incluidas": [
+        "CAT008",
+        "CAT002",
+        "CAT004",
+        "CAT003"
+      ],
+      "productos_excluidos": [
+        "PROD007"
+      ]
+    },
+    "activo": true
+  },
+  {
+    "id": "CUP006",
+    "codigo": "GLOW44",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "porcentaje",
+    "valor": 5,
+    "valido_desde": "2025-04-05",
+    "valido_hasta": "2026-04-01",
+    "restricciones": {
+      "min_compra": 0,
+      "categorias_incluidas": [
+        "CAT005",
+        "CAT010",
+        "CAT008"
+      ],
+      "productos_excluidos": []
+    },
+    "activo": false
+  },
+  {
+    "id": "CUP007",
+    "codigo": "ANGEL74",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "fijo",
+    "valor": 20000,
+    "valido_desde": "2025-09-14",
+    "valido_hasta": "2026-05-08",
+    "restricciones": {
+      "min_compra": 0,
+      "categorias_incluidas": [
+        "CAT007",
+        "CAT006"
+      ],
+      "productos_excluidos": [
+        "PROD001",
+        "PROD002"
+      ]
+    },
+    "activo": true
+  },
+  {
+    "id": "CUP008",
+    "codigo": "BEAUTY15",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "porcentaje",
+    "valor": 20000,
+    "valido_desde": "2024-02-12",
+    "valido_hasta": "2024-07-28",
+    "restricciones": {
+      "min_compra": 120000,
+      "categorias_incluidas": [
+        "CAT003",
+        "CAT007",
+        "CAT008",
+        "CAT001"
+      ],
+      "productos_excluidos": [
+        "PROD006",
+        "PROD007",
+        "PROD015"
+      ]
+    },
+    "activo": true
+  },
+  {
+    "id": "CUP009",
+    "codigo": "ANGEL62",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "fijo",
+    "valor": 15,
+    "valido_desde": "2024-08-02",
+    "valido_hasta": "2024-11-22",
+    "restricciones": {
+      "min_compra": 120000,
+      "categorias_incluidas": [
+        "CAT008",
+        "CAT002"
+      ],
+      "productos_excluidos": [
+        "PROD005",
+        "PROD006"
+      ]
+    },
+    "activo": true
+  },
+  {
+    "id": "CUP010",
+    "codigo": "PRO94",
+    "descripcion": "Cupón promocional para clientes de Comily.",
+    "tipo": "fijo",
+    "valor": 20000,
+    "valido_desde": "2026-04-07",
+    "valido_hasta": "2027-01-25",
+    "restricciones": {
+      "min_compra": 0,
+      "categorias_incluidas": [
+        "CAT009",
+        "CAT006",
+        "CAT008"
+      ],
+      "productos_excluidos": [
+        "PROD013",
+        "PROD001",
+        "PROD004"
+      ]
+    },
+    "activo": true
+  }
+]

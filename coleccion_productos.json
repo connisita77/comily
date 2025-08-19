@@ -1,0 +1,439 @@
+[
+  {
+    "id": "PROD001",
+    "nombre": "Base Líquida Alta Cobertura Micolor",
+    "slug": "base-líquida-alta-cobertura-micolor",
+    "descripcion": "Base Líquida Alta Cobertura de la marca Micolor, acabado profesional y fórmula oil-free.",
+    "categoria_id": "CAT001",
+    "marca": "Micolor",
+    "tonos": [
+      "Cocoa",
+      "Caramelo"
+    ],
+    "tipo_piel": "mixta",
+    "precio_cop": 101000,
+    "stock": 108,
+    "etiquetas": [
+      "sin parabenos"
+    ],
+    "codigo_sku": "COM-1488-001",
+    "codigo_barras": "25016525",
+    "ingredientes": [
+      "glicerina",
+      "niacinamida",
+      "vitamina C"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD002",
+    "nombre": "Corrector HD Truly",
+    "slug": "corrector-hd-truly",
+    "descripcion": "Corrector HD de la marca Truly, acabado profesional y fórmula resistente al agua.",
+    "categoria_id": "CAT010",
+    "marca": "Truly",
+    "tonos": [
+      "Sand",
+      "Caramelo",
+      "Transparente",
+      "Ivory"
+    ],
+    "tipo_piel": "mixta",
+    "precio_cop": 102000,
+    "stock": 17,
+    "etiquetas": [
+      "kit"
+    ],
+    "codigo_sku": "COM-5333-002",
+    "codigo_barras": "75935868",
+    "ingredientes": [
+      "filtro UV",
+      "aceite de jojoba",
+      "ácido hialurónico"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD003",
+    "nombre": "Rubor Satinado BíoAqua",
+    "slug": "rubor-satinado-bíoaqua",
+    "descripcion": "Rubor Satinado de la marca BíoAqua, acabado profesional y fórmula oil-free.",
+    "categoria_id": "CAT006",
+    "marca": "BíoAqua",
+    "tonos": [
+      "Cocoa",
+      "Beige",
+      "Caramelo"
+    ],
+    "tipo_piel": "mixta",
+    "precio_cop": 117000,
+    "stock": 8,
+    "etiquetas": [
+      "kit"
+    ],
+    "codigo_sku": "COM-4432-003",
+    "codigo_barras": "2966171396568",
+    "ingredientes": [
+      "manteca de karité",
+      "filtro UV",
+      "ácido hialurónico",
+      "glicerina",
+      "aceite de jojoba"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD004",
+    "nombre": "Iluminador Glow Truly",
+    "slug": "iluminador-glow-truly",
+    "descripcion": "Iluminador Glow de la marca Truly, acabado profesional y fórmula resistente al agua.",
+    "categoria_id": "CAT004",
+    "marca": "Truly",
+    "tonos": [
+      "Cocoa",
+      "Beige",
+      "Caramelo",
+      "Coral",
+      "Transparente"
+    ],
+    "tipo_piel": "seca",
+    "precio_cop": 61000,
+    "stock": 97,
+    "etiquetas": [
+      "oil-free",
+      "rebaja"
+    ],
+    "codigo_sku": "COM-9830-004",
+    "codigo_barras": "745391478116",
+    "ingredientes": [
+      "aceite de jojoba",
+      "filtro UV",
+      "vitamina C",
+      "glicerina",
+      "ácido hialurónico",
+      "agua"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD005",
+    "nombre": "Delineador Precisión Comily Pro",
+    "slug": "delineador-precisión-comily-pro",
+    "descripcion": "Delineador Precisión de la marca Comily Pro, acabado profesional y fórmula ligera.",
+    "categoria_id": "CAT001",
+    "marca": "Comily Pro",
+    "tonos": [
+      "Vino",
+      "Ivory",
+      "Beige",
+      "Transparente"
+    ],
+    "tipo_piel": "seca",
+    "precio_cop": 26000,
+    "stock": 92,
+    "etiquetas": [
+      "edición limitada",
+      "kit",
+      "rebaja"
+    ],
+    "codigo_sku": "COM-5315-005",
+    "codigo_barras": "7516851319995",
+    "ingredientes": [
+      "glicerina",
+      "ácido hialurónico",
+      "vitamina C",
+      "manteca de karité",
+      "filtro UV"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD006",
+    "nombre": "Máscara de Pestañas Volume Pro Beauty Model",
+    "slug": "máscara-de-pestañas-volume-pro-beauty-model",
+    "descripcion": "Máscara de Pestañas Volume Pro de la marca Beauty Model, acabado profesional y fórmula oil-free.",
+    "categoria_id": "CAT008",
+    "marca": "Beauty Model",
+    "tonos": [
+      "Ivory",
+      "Caramelo",
+      "Beige"
+    ],
+    "tipo_piel": "mixta",
+    "precio_cop": 20000,
+    "stock": 86,
+    "etiquetas": [
+      "SPF50"
+    ],
+    "codigo_sku": "COM-3705-006",
+    "codigo_barras": "569976736384",
+    "ingredientes": [
+      "ácido hialurónico",
+      "glicerina",
+      "filtro UV"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD007",
+    "nombre": "Sombras 12 Tonos Essential BíoAqua",
+    "slug": "sombras-12-tonos-essential-bíoaqua",
+    "descripcion": "Sombras 12 Tonos Essential de la marca BíoAqua, acabado profesional y fórmula ligera.",
+    "categoria_id": "CAT009",
+    "marca": "BíoAqua",
+    "tonos": [
+      "Coral",
+      "Caramelo",
+      "Ivory"
+    ],
+    "tipo_piel": "seca",
+    "precio_cop": 98000,
+    "stock": 167,
+    "etiquetas": [
+      "nuevo"
+    ],
+    "codigo_sku": "COM-4899-007",
+    "codigo_barras": "621954781044",
+    "ingredientes": [
+      "glicerina",
+      "agua",
+      "ácido hialurónico",
+      "aceite de jojoba"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD008",
+    "nombre": "Labial Mate Larga Duración Micolor",
+    "slug": "labial-mate-larga-duración-micolor",
+    "descripcion": "Labial Mate Larga Duración de la marca Micolor, acabado profesional y fórmula ligera.",
+    "categoria_id": "CAT007",
+    "marca": "Micolor",
+    "tonos": [
+      "Rosa",
+      "Transparente"
+    ],
+    "tipo_piel": "sensible",
+    "precio_cop": 73000,
+    "stock": 54,
+    "etiquetas": [
+      "oil-free"
+    ],
+    "codigo_sku": "COM-4006-008",
+    "codigo_barras": "480880650072",
+    "ingredientes": [
+      "vitamina C",
+      "niacinamida",
+      "manteca de karité",
+      "glicerina"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD009",
+    "nombre": "Bálsamo Labial Reparador Dragon Ranee",
+    "slug": "bálsamo-labial-reparador-dragon-ranee",
+    "descripcion": "Bálsamo Labial Reparador de la marca Dragon Ranee, acabado profesional y fórmula oil-free.",
+    "categoria_id": "CAT003",
+    "marca": "Dragon Ranee",
+    "tonos": [
+      "Sand",
+      "Rosa"
+    ],
+    "tipo_piel": "todas",
+    "precio_cop": 20000,
+    "stock": 172,
+    "etiquetas": [
+      "kit"
+    ],
+    "codigo_sku": "COM-4111-009",
+    "codigo_barras": "207030495058",
+    "ingredientes": [
+      "manteca de karité",
+      "ácido hialurónico",
+      "vitamina C",
+      "niacinamida",
+      "filtro UV"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD010",
+    "nombre": "Fijador 2 en 1 ProXa",
+    "slug": "fijador-2-en-1-proxa",
+    "descripcion": "Fijador 2 en 1 de la marca ProXa, acabado profesional y fórmula ligera.",
+    "categoria_id": "CAT003",
+    "marca": "ProXa",
+    "tonos": [
+      "Beige",
+      "Caramelo",
+      "Ivory",
+      "Cocoa",
+      "Durazno"
+    ],
+    "tipo_piel": "grasa",
+    "precio_cop": 32000,
+    "stock": 112,
+    "etiquetas": [
+      "rebaja",
+      "sin parabenos"
+    ],
+    "codigo_sku": "COM-5915-010",
+    "codigo_barras": "370499022988",
+    "ingredientes": [
+      "filtro UV",
+      "glicerina",
+      "ácido hialurónico",
+      "vitamina C"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD011",
+    "nombre": "Protector Solar Facial SPF50 Beauty Model",
+    "slug": "protector-solar-facial-spf50-beauty-model",
+    "descripcion": "Protector Solar Facial SPF50 de la marca Beauty Model, acabado profesional y fórmula oil-free.",
+    "categoria_id": "CAT003",
+    "marca": "Beauty Model",
+    "tonos": [
+      "Vino",
+      "Cocoa"
+    ],
+    "tipo_piel": "grasa",
+    "precio_cop": 32000,
+    "stock": 189,
+    "etiquetas": [
+      "vegano",
+      "SPF50",
+      "sin parabenos"
+    ],
+    "codigo_sku": "COM-5462-011",
+    "codigo_barras": "672624980420",
+    "ingredientes": [
+      "glicerina",
+      "filtro UV",
+      "niacinamida"
+    ],
+    "apto_vegano": true
+  },
+  {
+    "id": "PROD012",
+    "nombre": "Gel Limpiador Suave Comily Pro",
+    "slug": "gel-limpiador-suave-comily-pro",
+    "descripcion": "Gel Limpiador Suave de la marca Comily Pro, acabado profesional y fórmula ligera.",
+    "categoria_id": "CAT006",
+    "marca": "Comily Pro",
+    "tonos": [
+      "Vino",
+      "Ivory",
+      "Beige",
+      "Coral",
+      "Transparente"
+    ],
+    "tipo_piel": "seca",
+    "precio_cop": 34000,
+    "stock": 188,
+    "etiquetas": [
+      "nuevo"
+    ],
+    "codigo_sku": "COM-1653-012",
+    "codigo_barras": "221784619898",
+    "ingredientes": [
+      "ácido hialurónico",
+      "vitamina C",
+      "glicerina",
+      "agua",
+      "manteca de karité"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD013",
+    "nombre": "Tónico Facial Refrescante Truly",
+    "slug": "tónico-facial-refrescante-truly",
+    "descripcion": "Tónico Facial Refrescante de la marca Truly, acabado profesional y fórmula ligera.",
+    "categoria_id": "CAT008",
+    "marca": "Truly",
+    "tonos": [
+      "Caramelo",
+      "Cocoa",
+      "Sand",
+      "Rosa",
+      "Transparente"
+    ],
+    "tipo_piel": "seca",
+    "precio_cop": 26000,
+    "stock": 66,
+    "etiquetas": [
+      "kit"
+    ],
+    "codigo_sku": "COM-6728-013",
+    "codigo_barras": "882632073568",
+    "ingredientes": [
+      "manteca de karité",
+      "glicerina",
+      "aceite de jojoba"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD014",
+    "nombre": "Serum Vitamina C 10% Rimoco",
+    "slug": "serum-vitamina-c-10%-rimoco",
+    "descripcion": "Serum Vitamina C 10% de la marca Rimoco, acabado profesional y fórmula ligera.",
+    "categoria_id": "CAT005",
+    "marca": "Rimoco",
+    "tonos": [
+      "Ivory",
+      "Beige",
+      "Rosa",
+      "Sand"
+    ],
+    "tipo_piel": "todas",
+    "precio_cop": 51000,
+    "stock": 170,
+    "etiquetas": [
+      "rebaja",
+      "oil-free",
+      "edición limitada"
+    ],
+    "codigo_sku": "COM-1727-014",
+    "codigo_barras": "4586971499661",
+    "ingredientes": [
+      "aceite de jojoba",
+      "niacinamida",
+      "glicerina"
+    ],
+    "apto_vegano": false
+  },
+  {
+    "id": "PROD015",
+    "nombre": "Crema Hidratante Ligera Dragon Ranee",
+    "slug": "crema-hidratante-ligera-dragon-ranee",
+    "descripcion": "Crema Hidratante Ligera de la marca Dragon Ranee, acabado profesional y fórmula resistente al agua.",
+    "categoria_id": "CAT005",
+    "marca": "Dragon Ranee",
+    "tonos": [
+      "Rosa",
+      "Cocoa",
+      "Sand",
+      "Beige"
+    ],
+    "tipo_piel": "mixta",
+    "precio_cop": 96000,
+    "stock": 21,
+    "etiquetas": [
+      "kit",
+      "rebaja"
+    ],
+    "codigo_sku": "COM-5700-015",
+    "codigo_barras": "45644249",
+    "ingredientes": [
+      "niacinamida",
+      "vitamina C",
+      "manteca de karité",
+      "agua"
+    ],
+    "apto_vegano": false
+  }
+]

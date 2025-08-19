@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CAT001",
+    "nombre": "Maquillaje Rostro",
+    "slug": "maquillaje-rostro",
+    "descripcion": "Categoría de maquillaje rostro en Comily."
+  },
+  {
+    "id": "CAT002",
+    "nombre": "Maquillaje Ojos",
+    "slug": "maquillaje-ojos",
+    "descripcion": "Categoría de maquillaje ojos en Comily."
+  },
+  {
+    "id": "CAT003",
+    "nombre": "Labios",
+    "slug": "labios",
+    "descripcion": "Categoría de labios en Comily."
+  },
+  {
+    "id": "CAT004",
+    "nombre": "Skincare Limpieza",
+    "slug": "skincare-limpieza",
+    "descripcion": "Categoría de skincare limpieza en Comily."
+  },
+  {
+    "id": "CAT005",
+    "nombre": "Skincare Hidratación",
+    "slug": "skincare-hidratación",
+    "descripcion": "Categoría de skincare hidratación en Comily."
+  },
+  {
+    "id": "CAT006",
+    "nombre": "Protección Solar",
+    "slug": "protección-solar",
+    "descripcion": "Categoría de protección solar en Comily."
+  },
+  {
+    "id": "CAT007",
+    "nombre": "Cuidado Capilar",
+    "slug": "cuidado-capilar",
+    "descripcion": "Categoría de cuidado capilar en Comily."
+  },
+  {
+    "id": "CAT008",
+    "nombre": "Brochas y Aplicadores",
+    "slug": "brochas-y-aplicadores",
+    "descripcion": "Categoría de brochas y aplicadores en Comily."
+  },
+  {
+    "id": "CAT009",
+    "nombre": "Sets y Kits",
+    "slug": "sets-y-kits",
+    "descripcion": "Categoría de sets y kits en Comily."
+  },
+  {
+    "id": "CAT010",
+    "nombre": "Ofertas",
+    "slug": "ofertas",
+    "descripcion": "Categoría de ofertas en Comily."
+  }
+]

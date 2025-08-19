@@ -1,0 +1,322 @@
+[
+  {
+    "id": "USR001",
+    "nombre": "Daniela",
+    "apellido": "Torres",
+    "email": "daniela.torres85@mi.comily.co",
+    "telefono": "+57 342-2566777",
+    "ciudad": "Giron",
+    "direccion": "Cra 87 #40-29",
+    "genero": "F",
+    "fecha_registro": "2024-05-30",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR002",
+    "nombre": "Paula",
+    "apellido": "Rivera",
+    "email": "paula.rivera99@gmail.com",
+    "telefono": "+57 358-7953166",
+    "ciudad": "Giron",
+    "direccion": "Cra 92 #90-50",
+    "genero": "M",
+    "fecha_registro": "2025-02-13",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR003",
+    "nombre": "Valentina",
+    "apellido": "Sánchez",
+    "email": "valentina.sánchez29@hotmail.com",
+    "telefono": "+57 389-9689889",
+    "ciudad": "Cali",
+    "direccion": "Cra 7 #72-32",
+    "genero": "F",
+    "fecha_registro": "2025-04-12",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR004",
+    "nombre": "Paula",
+    "apellido": "Rivera",
+    "email": "paula.rivera93@mi.comily.co",
+    "telefono": "+57 354-8481188",
+    "ciudad": "Piedecuesta",
+    "direccion": "Cra 96 #61-58",
+    "genero": "M",
+    "fecha_registro": "2024-09-10",
+    "roles": [
+      "vendedor"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR005",
+    "nombre": "Sofía",
+    "apellido": "López",
+    "email": "sofía.lópez36@outlook.com",
+    "telefono": "+57 309-5793722",
+    "ciudad": "Giron",
+    "direccion": "Cra 35 #43-41",
+    "genero": "Otro",
+    "fecha_registro": "2024-03-23",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR006",
+    "nombre": "Ana",
+    "apellido": "Martínez",
+    "email": "ana.martínez91@hotmail.com",
+    "telefono": "+57 308-7960328",
+    "ciudad": "Medellín",
+    "direccion": "Cra 43 #70-60",
+    "genero": "M",
+    "fecha_registro": "2024-03-04",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR007",
+    "nombre": "Manuela",
+    "apellido": "García",
+    "email": "manuela.garcía98@mi.comily.co",
+    "telefono": "+57 348-9002392",
+    "ciudad": "Bucaramanga",
+    "direccion": "Cra 46 #39-97",
+    "genero": "M",
+    "fecha_registro": "2025-03-05",
+    "roles": [
+      "vendedor"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR008",
+    "nombre": "Laura",
+    "apellido": "Gómez",
+    "email": "laura.gómez56@outlook.com",
+    "telefono": "+57 303-7523941",
+    "ciudad": "Bogotá",
+    "direccion": "Cra 86 #87-52",
+    "genero": "Otro",
+    "fecha_registro": "2024-06-18",
+    "roles": [
+      "admin"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR009",
+    "nombre": "Ana",
+    "apellido": "Rivera",
+    "email": "ana.rivera73@gmail.com",
+    "telefono": "+57 310-8190929",
+    "ciudad": "Piedecuesta",
+    "direccion": "Cra 60 #24-7",
+    "genero": "M",
+    "fecha_registro": "2025-01-23",
+    "roles": [
+      "admin"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR010",
+    "nombre": "María",
+    "apellido": "Pérez",
+    "email": "maría.pérez98@outlook.com",
+    "telefono": "+57 335-8072684",
+    "ciudad": "Barrancabermeja",
+    "direccion": "Cra 11 #61-3",
+    "genero": "Otro",
+    "fecha_registro": "2025-07-06",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR011",
+    "nombre": "Sofía",
+    "apellido": "Rodríguez",
+    "email": "sofía.rodríguez84@gmail.com",
+    "telefono": "+57 396-1520596",
+    "ciudad": "Giron",
+    "direccion": "Cra 26 #3-80",
+    "genero": "F",
+    "fecha_registro": "2024-09-01",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR012",
+    "nombre": "Manuela",
+    "apellido": "López",
+    "email": "manuela.lópez60@yahoo.com",
+    "telefono": "+57 398-7189034",
+    "ciudad": "Piedecuesta",
+    "direccion": "Cra 78 #78-96",
+    "genero": "Otro",
+    "fecha_registro": "2024-04-27",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR013",
+    "nombre": "Manuela",
+    "apellido": "García",
+    "email": "manuela.garcía40@mi.comily.co",
+    "telefono": "+57 386-7296605",
+    "ciudad": "Medellín",
+    "direccion": "Cra 92 #26-10",
+    "genero": "Otro",
+    "fecha_registro": "2024-09-05",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR014",
+    "nombre": "Manuela",
+    "apellido": "García",
+    "email": "manuela.garcía45@mi.comily.co",
+    "telefono": "+57 354-7217147",
+    "ciudad": "Floridablanca",
+    "direccion": "Cra 65 #83-44",
+    "genero": "F",
+    "fecha_registro": "2025-03-06",
+    "roles": [
+      "admin"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR015",
+    "nombre": "María",
+    "apellido": "Ramírez",
+    "email": "maría.ramírez91@hotmail.com",
+    "telefono": "+57 355-3955087",
+    "ciudad": "Barrancabermeja",
+    "direccion": "Cra 79 #69-62",
+    "genero": "M",
+    "fecha_registro": "2025-03-22",
+    "roles": [
+      "vendedor"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR016",
+    "nombre": "Laura",
+    "apellido": "Rodríguez",
+    "email": "laura.rodríguez36@outlook.com",
+    "telefono": "+57 331-8796514",
+    "ciudad": "Medellín",
+    "direccion": "Cra 44 #4-64",
+    "genero": "M",
+    "fecha_registro": "2024-07-05",
+    "roles": [
+      "admin"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR017",
+    "nombre": "Daniela",
+    "apellido": "Pérez",
+    "email": "daniela.pérez36@mi.comily.co",
+    "telefono": "+57 389-5635017",
+    "ciudad": "Bucaramanga",
+    "direccion": "Cra 67 #25-11",
+    "genero": "F",
+    "fecha_registro": "2025-02-20",
+    "roles": [
+      "admin"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR018",
+    "nombre": "Sofía",
+    "apellido": "Ramírez",
+    "email": "sofía.ramírez58@gmail.com",
+    "telefono": "+57 311-5936453",
+    "ciudad": "Giron",
+    "direccion": "Cra 52 #89-32",
+    "genero": "M",
+    "fecha_registro": "2025-01-12",
+    "roles": [
+      "admin"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": false
+  },
+  {
+    "id": "USR019",
+    "nombre": "Isabella",
+    "apellido": "Torres",
+    "email": "isabella.torres43@yahoo.com",
+    "telefono": "+57 389-8612582",
+    "ciudad": "Barrancabermeja",
+    "direccion": "Cra 40 #33-30",
+    "genero": "F",
+    "fecha_registro": "2024-07-16",
+    "roles": [
+      "admin"
+    ],
+    "estado": "activo",
+    "marketing_opt_in": true
+  },
+  {
+    "id": "USR020",
+    "nombre": "Laura",
+    "apellido": "López",
+    "email": "laura.lópez95@outlook.com",
+    "telefono": "+57 335-9801946",
+    "ciudad": "Barrancabermeja",
+    "direccion": "Cra 13 #25-38",
+    "genero": "F",
+    "fecha_registro": "2025-01-04",
+    "roles": [
+      "cliente"
+    ],
+    "estado": "inactivo",
+    "marketing_opt_in": true
+  }
+]

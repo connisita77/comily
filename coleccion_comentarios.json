@@ -1,0 +1,194 @@
+[
+  {
+    "id": "COM001",
+    "producto_id": "PROD009",
+    "usuario_id": "USR005",
+    "calificacion": 3,
+    "titulo": "No me funcionó",
+    "contenido": "Lo volvería a comprar. #ComilyLover",
+    "fecha": "2025-02-04",
+    "moderado": true,
+    "fotos": []
+  },
+  {
+    "id": "COM002",
+    "producto_id": "PROD011",
+    "usuario_id": "USR020",
+    "calificacion": 2,
+    "titulo": "Recomendado",
+    "contenido": "Color precioso, dura todo el día.",
+    "fecha": "2024-11-07",
+    "moderado": true,
+    "fotos": [
+      "https://img.comily.co/reviews/14.jpg",
+      "https://img.comily.co/reviews/3.jpg"
+    ]
+  },
+  {
+    "id": "COM003",
+    "producto_id": "PROD004",
+    "usuario_id": "USR004",
+    "calificacion": 4,
+    "titulo": "Excelente",
+    "contenido": "Lo volvería a comprar. #ComilyLover",
+    "fecha": "2024-08-18",
+    "moderado": false,
+    "fotos": [
+      "https://img.comily.co/reviews/10.jpg",
+      "https://img.comily.co/reviews/17.jpg"
+    ]
+  },
+  {
+    "id": "COM004",
+    "producto_id": "PROD012",
+    "usuario_id": "USR009",
+    "calificacion": 4,
+    "titulo": "Envase defectuoso",
+    "contenido": "Llegó tarde y la caja venía golpeada.",
+    "fecha": "2025-01-28",
+    "moderado": true,
+    "fotos": [
+      "https://img.comily.co/reviews/18.jpg"
+    ]
+  },
+  {
+    "id": "COM005",
+    "producto_id": "PROD003",
+    "usuario_id": "USR013",
+    "calificacion": 2,
+    "titulo": "Calidad-precio",
+    "contenido": "Ideal para piel mixta. ✅",
+    "fecha": "2025-06-18",
+    "moderado": true,
+    "fotos": []
+  },
+  {
+    "id": "COM006",
+    "producto_id": "PROD005",
+    "usuario_id": "USR014",
+    "calificacion": 3,
+    "titulo": "Envase defectuoso",
+    "contenido": "Ideal para piel mixta. ✅",
+    "fecha": "2024-10-15",
+    "moderado": true,
+    "fotos": [
+      "https://img.comily.co/reviews/10.jpg"
+    ]
+  },
+  {
+    "id": "COM007",
+    "producto_id": "PROD014",
+    "usuario_id": "USR019",
+    "calificacion": 5,
+    "titulo": "Recomendado",
+    "contenido": "Llegó tarde y la caja venía golpeada.",
+    "fecha": "2024-08-16",
+    "moderado": false,
+    "fotos": [
+      "https://img.comily.co/reviews/16.jpg",
+      "https://img.comily.co/reviews/12.jpg"
+    ]
+  },
+  {
+    "id": "COM008",
+    "producto_id": "PROD006",
+    "usuario_id": "USR018",
+    "calificacion": 5,
+    "titulo": "No me funcionó",
+    "contenido": "Llegó tarde y la caja venía golpeada.",
+    "fecha": "2024-11-12",
+    "moderado": true,
+    "fotos": [
+      "https://img.comily.co/reviews/8.jpg",
+      "https://img.comily.co/reviews/13.jpg"
+    ]
+  },
+  {
+    "id": "COM009",
+    "producto_id": "PROD004",
+    "usuario_id": "USR014",
+    "calificacion": 1,
+    "titulo": "Cumple",
+    "contenido": "Lo volvería a comprar. #ComilyLover",
+    "fecha": "2025-01-29",
+    "moderado": false,
+    "fotos": [
+      "https://img.comily.co/reviews/5.jpg"
+    ]
+  },
+  {
+    "id": "COM010",
+    "producto_id": "PROD008",
+    "usuario_id": "USR002",
+    "calificacion": 2,
+    "titulo": "Calidad-precio",
+    "contenido": "Ideal para piel mixta. ✅",
+    "fecha": "2024-11-17",
+    "moderado": true,
+    "fotos": [
+      "https://img.comily.co/reviews/4.jpg"
+    ]
+  },
+  {
+    "id": "COM011",
+    "producto_id": "PROD009",
+    "usuario_id": "USR015",
+    "calificacion": 1,
+    "titulo": "Recomendado",
+    "contenido": "Color precioso, dura todo el día.",
+    "fecha": "2024-12-27",
+    "moderado": true,
+    "fotos": []
+  },
+  {
+    "id": "COM012",
+    "producto_id": "PROD008",
+    "usuario_id": "USR009",
+    "calificacion": 3,
+    "titulo": "Calidad-precio",
+    "contenido": "Lo volvería a comprar. #ComilyLover",
+    "fecha": "2024-12-21",
+    "moderado": true,
+    "fotos": [
+      "https://img.comily.co/reviews/18.jpg"
+    ]
+  },
+  {
+    "id": "COM013",
+    "producto_id": "PROD007",
+    "usuario_id": "USR011",
+    "calificacion": 4,
+    "titulo": "Envase defectuoso",
+    "contenido": "Ideal para piel mixta. ✅",
+    "fecha": "2024-06-19",
+    "moderado": true,
+    "fotos": []
+  },
+  {
+    "id": "COM014",
+    "producto_id": "PROD011",
+    "usuario_id": "USR010",
+    "calificacion": 2,
+    "titulo": "Recomendado",
+    "contenido": "Textura ligera, huele rico y no deja grumos.",
+    "fecha": "2025-01-09",
+    "moderado": true,
+    "fotos": [
+      "https://img.comily.co/reviews/4.jpg",
+      "https://img.comily.co/reviews/15.jpg"
+    ]
+  },
+  {
+    "id": "COM015",
+    "producto_id": "PROD003",
+    "usuario_id": "USR010",
+    "calificacion": 1,
+    "titulo": "Excelente",
+    "contenido": "No se adapta a mi tono, pero la fórmula es buena.",
+    "fecha": "2024-06-29",
+    "moderado": false,
+    "fotos": [
+      "https://img.comily.co/reviews/12.jpg"
+    ]
+  }
+]

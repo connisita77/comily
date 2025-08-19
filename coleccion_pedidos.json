@@ -1,0 +1,303 @@
+[
+  {
+    "id": "ORD001",
+    "codigo": "CO-2405-0001",
+    "usuario_id": "USR014",
+    "fecha": "2024-05-29",
+    "items": [
+      {
+        "producto_id": "PROD004",
+        "nombre": "Iluminador Glow Truly",
+        "cantidad": 3,
+        "precio_unitario": 61000,
+        "tono": "Coral"
+      },
+      {
+        "producto_id": "PROD010",
+        "nombre": "Fijador 2 en 1 ProXa",
+        "cantidad": 3,
+        "precio_unitario": 32000,
+        "tono": "Caramelo"
+      }
+    ],
+    "subtotal_cop": 279000,
+    "envio_cop": 0,
+    "total_cop": 279000,
+    "metodo_pago": "tarjeta",
+    "estado": "cancelado",
+    "ciudad_envio": "Floridablanca"
+  },
+  {
+    "id": "ORD002",
+    "codigo": "CO-2407-0002",
+    "usuario_id": "USR013",
+    "fecha": "2024-07-09",
+    "items": [
+      {
+        "producto_id": "PROD008",
+        "nombre": "Labial Mate Larga Duración Micolor",
+        "cantidad": 3,
+        "precio_unitario": 73000,
+        "tono": "Rosa"
+      },
+      {
+        "producto_id": "PROD004",
+        "nombre": "Iluminador Glow Truly",
+        "cantidad": 2,
+        "precio_unitario": 61000,
+        "tono": "Caramelo"
+      }
+    ],
+    "subtotal_cop": 341000,
+    "envio_cop": 7000,
+    "total_cop": 348000,
+    "metodo_pago": "tarjeta",
+    "estado": "entregado",
+    "ciudad_envio": "Medellín"
+  },
+  {
+    "id": "ORD003",
+    "codigo": "CO-2407-0003",
+    "usuario_id": "USR010",
+    "fecha": "2024-07-07",
+    "items": [
+      {
+        "producto_id": "PROD002",
+        "nombre": "Corrector HD Truly",
+        "cantidad": 2,
+        "precio_unitario": 102000,
+        "tono": "Transparente"
+      },
+      {
+        "producto_id": "PROD010",
+        "nombre": "Fijador 2 en 1 ProXa",
+        "cantidad": 2,
+        "precio_unitario": 32000,
+        "tono": "Cocoa"
+      }
+    ],
+    "subtotal_cop": 268000,
+    "envio_cop": 12000,
+    "total_cop": 280000,
+    "metodo_pago": "nequi",
+    "estado": "enviado",
+    "ciudad_envio": "Barrancabermeja"
+  },
+  {
+    "id": "ORD004",
+    "codigo": "CO-2409-0004",
+    "usuario_id": "USR007",
+    "fecha": "2024-09-19",
+    "items": [
+      {
+        "producto_id": "PROD014",
+        "nombre": "Serum Vitamina C 10% Rimoco",
+        "cantidad": 2,
+        "precio_unitario": 51000,
+        "tono": "Ivory"
+      },
+      {
+        "producto_id": "PROD004",
+        "nombre": "Iluminador Glow Truly",
+        "cantidad": 2,
+        "precio_unitario": 61000,
+        "tono": "Transparente"
+      },
+      {
+        "producto_id": "PROD006",
+        "nombre": "Máscara de Pestañas Volume Pro Beauty Model",
+        "cantidad": 3,
+        "precio_unitario": 20000,
+        "tono": "Caramelo"
+      },
+      {
+        "producto_id": "PROD012",
+        "nombre": "Gel Limpiador Suave Comily Pro",
+        "cantidad": 2,
+        "precio_unitario": 34000,
+        "tono": "Vino"
+      }
+    ],
+    "subtotal_cop": 352000,
+    "envio_cop": 12000,
+    "total_cop": 364000,
+    "metodo_pago": "contraentrega",
+    "estado": "creado",
+    "ciudad_envio": "Bucaramanga"
+  },
+  {
+    "id": "ORD005",
+    "codigo": "CO-2504-0005",
+    "usuario_id": "USR019",
+    "fecha": "2025-04-02",
+    "items": [
+      {
+        "producto_id": "PROD015",
+        "nombre": "Crema Hidratante Ligera Dragon Ranee",
+        "cantidad": 3,
+        "precio_unitario": 96000,
+        "tono": "Beige"
+      }
+    ],
+    "subtotal_cop": 288000,
+    "envio_cop": 7000,
+    "total_cop": 295000,
+    "metodo_pago": "pse",
+    "estado": "cancelado",
+    "ciudad_envio": "Barrancabermeja"
+  },
+  {
+    "id": "ORD006",
+    "codigo": "CO-2404-0006",
+    "usuario_id": "USR012",
+    "fecha": "2024-04-19",
+    "items": [
+      {
+        "producto_id": "PROD011",
+        "nombre": "Protector Solar Facial SPF50 Beauty Model",
+        "cantidad": 1,
+        "precio_unitario": 32000,
+        "tono": "Cocoa"
+      },
+      {
+        "producto_id": "PROD011",
+        "nombre": "Protector Solar Facial SPF50 Beauty Model",
+        "cantidad": 3,
+        "precio_unitario": 32000,
+        "tono": "Vino"
+      }
+    ],
+    "subtotal_cop": 128000,
+    "envio_cop": 12000,
+    "total_cop": 140000,
+    "metodo_pago": "tarjeta",
+    "estado": "enviado",
+    "ciudad_envio": "Piedecuesta"
+  },
+  {
+    "id": "ORD007",
+    "codigo": "CO-2506-0007",
+    "usuario_id": "USR015",
+    "fecha": "2025-06-09",
+    "items": [
+      {
+        "producto_id": "PROD010",
+        "nombre": "Fijador 2 en 1 ProXa",
+        "cantidad": 2,
+        "precio_unitario": 32000,
+        "tono": "Caramelo"
+      }
+    ],
+    "subtotal_cop": 64000,
+    "envio_cop": 0,
+    "total_cop": 64000,
+    "metodo_pago": "contraentrega",
+    "estado": "enviado",
+    "ciudad_envio": "Barrancabermeja"
+  },
+  {
+    "id": "ORD008",
+    "codigo": "CO-2407-0008",
+    "usuario_id": "USR014",
+    "fecha": "2024-07-10",
+    "items": [
+      {
+        "producto_id": "PROD004",
+        "nombre": "Iluminador Glow Truly",
+        "cantidad": 1,
+        "precio_unitario": 61000,
+        "tono": "Transparente"
+      },
+      {
+        "producto_id": "PROD015",
+        "nombre": "Crema Hidratante Ligera Dragon Ranee",
+        "cantidad": 2,
+        "precio_unitario": 96000,
+        "tono": "Sand"
+      }
+    ],
+    "subtotal_cop": 253000,
+    "envio_cop": 0,
+    "total_cop": 253000,
+    "metodo_pago": "nequi",
+    "estado": "enviado",
+    "ciudad_envio": "Floridablanca"
+  },
+  {
+    "id": "ORD009",
+    "codigo": "CO-2505-0009",
+    "usuario_id": "USR011",
+    "fecha": "2025-05-15",
+    "items": [
+      {
+        "producto_id": "PROD008",
+        "nombre": "Labial Mate Larga Duración Micolor",
+        "cantidad": 1,
+        "precio_unitario": 73000,
+        "tono": "Rosa"
+      }
+    ],
+    "subtotal_cop": 73000,
+    "envio_cop": 0,
+    "total_cop": 73000,
+    "metodo_pago": "nequi",
+    "estado": "cancelado",
+    "ciudad_envio": "Giron"
+  },
+  {
+    "id": "ORD010",
+    "codigo": "CO-2411-0010",
+    "usuario_id": "USR012",
+    "fecha": "2024-11-30",
+    "items": [
+      {
+        "producto_id": "PROD013",
+        "nombre": "Tónico Facial Refrescante Truly",
+        "cantidad": 2,
+        "precio_unitario": 26000,
+        "tono": "Caramelo"
+      }
+    ],
+    "subtotal_cop": 52000,
+    "envio_cop": 7000,
+    "total_cop": 59000,
+    "metodo_pago": "tarjeta",
+    "estado": "entregado",
+    "ciudad_envio": "Piedecuesta"
+  },
+  {
+    "id": "ORD011",
+    "codigo": "CO-2406-0011",
+    "usuario_id": "USR012",
+    "fecha": "2024-06-22",
+    "items": [
+      {
+        "producto_id": "PROD010",
+        "nombre": "Fijador 2 en 1 ProXa",
+        "cantidad": 2,
+        "precio_unitario": 32000,
+        "tono": "Ivory"
+      },
+      {
+        "producto_id": "PROD002",
+        "nombre": "Corrector HD Truly",
+        "cantidad": 3,
+        "precio_unitario": 102000,
+        "tono": "Caramelo"
+      },
+      {
+        "producto_id": "PROD008",
+        "nombre": "Labial Mate Larga Duración Micolor",
+        "cantidad": 1,
+        "precio_unitario": 73000,
+        "tono": "Transparente"
+      }
+    ],
+    "subtotal_cop": 443000,
+    "envio_cop": 12000,
+    "total_cop": 455000,
+    "metodo_pago": "tarjeta",
+    "estado": "entregado",
+    "ciudad_envio": "Piedecuesta"
+  }
+]
