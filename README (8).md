@@ -166,16 +166,32 @@ Segmentación geográfica para campañas.
 Detección de UGC aprovechable en marketing.
 
 12.Comentarios con check o emoticonios (caracteres Unicode)
+![alt text](image-12.png)
 13.Comentarios que contengan “defectuoso|golpead”
+![alt text](image-13.png)
 14.Productos “Protector Solar … SPF(\s)\d+”*
+![alt text](image-14.png)
 15.Productos con tonos “Rosa|Coral|Durazno|Vino”
+![alt text](image-15.png)
 16.Slugs con guiones (ver URL amigables)
+![alt text](image-16.png)
 17.Ingredientes que incluyan “ácido hialurónico|niacinamida|vitamina C”
+![alt text](image-17.png)
 18.Cupones activos cuyo código empiece por “PRO|GLOW”
+![alt text](image-18.png)
 19.Cupones con descripción que mencione “promocional|descuento”
+![alt text](image-19.png)
 20.Pedidos con código tipo CO-YYMM-####
+![alt text](image-20.png)
+
 21.Pedidos con ciudad de envío que termine en “-manga” o “-lanca”
+![alt text](image-21.png)
 22.Métodos de pago PSE o tarjeta (insensible a mayúsculas)
+![alt text](image-22.png)
+
 23.Productos en rebaja o con etiqueta “oferta|rebaja” en etiquetas
+![alt text](image-23.png)
 24.Usuarios que aceptaron marketing (correo de Gmail)
+![alt text](image-24.png)
 25.Productos “Comily Pro …” o marca exacta “Comily Pro”
+![alt text](image-26.png)
